@@ -6,24 +6,36 @@ The Power BI dashboard is available in this link: https://app.powerbi.com/links/
 # Goals of the project:
 My goal in this project was to practice and deepen my skills in database management and report writing in the business sector, using SQL and Power BI.
 To this purpose, I used the AdventureWorks database* to process and interpret the data in the database to answer questions such as:
-•	What are the best products? /n
+
+•	What are the best products?
+
 •	Who are the biggest customers?
+
 •	What categories of products generate the most revenue?
+
 •	Which country buys which category of product more?
+
 •	Which countries have the most customers and which are the biggest buyers?
+
 
 *The AdventureWorks Database is a Microsoft product sample for an online transaction processing (OLTP) database. The AdventureWorks Database supports a fictitious, multinational manufacturing company called Adventure Works Cycles.
 Link to more information about the AdventureWorks Database: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
 # Used programs:
 •	Microsoft SQL Server Management Studio
+
 •	Microsoft Power BI
 
 # Skills developed by the project:
+
 •	Data cleaning and transformation in SQL
+
 •	Writing queries in SQL
+
 •	Organize and prepare tables in Power BI
+
 •	Visualize data and create dashboards in Power BI
+
 
 # Steps of the project:
 
