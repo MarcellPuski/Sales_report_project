@@ -18,7 +18,8 @@ Link to more information about the AdventureWorks Database: https://learn.micros
 # Used programs:
 •	Microsoft SQL Server Management Studio
 •	Microsoft Power BI
-Skills developed by the project:
+
+# Skills developed by the project:
 •	Data cleaning and transformation in SQL
 •	Writing queries in SQL
 •	Organize and prepare tables in Power BI
