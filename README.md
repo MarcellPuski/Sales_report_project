@@ -6,7 +6,7 @@ The Power BI dashboard is available in this link: https://app.powerbi.com/links/
 # Goals of the project:
 My goal in this project was to practice and deepen my skills in database management and report writing in the business sector, using SQL and Power BI.
 To this purpose, I used the AdventureWorks database* to process and interpret the data in the database to answer questions such as:
-•	What are the best products?
+•	What are the best products? /n
 •	Who are the biggest customers?
 •	What categories of products generate the most revenue?
 •	Which country buys which category of product more?
