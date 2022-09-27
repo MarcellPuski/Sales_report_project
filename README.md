@@ -45,7 +45,8 @@ Three data tables contained information on products, consumers, and sales, compl
 
 2.	Data table organization
 In the next step, using Power BI, I linked the data tables using the appropriate primary keys, and created the additional variables needed for analysis.
- 
+
+![model](https://github.com/MarcellPuski/Sales_report_project/tree/main/pictures/model.png)
 
 3.	Report preparation
 Finally, using the transformed and cleaned data, I created reports using Power Bi to find deeper insights and answers to the initial questions.
